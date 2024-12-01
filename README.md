@@ -22,7 +22,7 @@ Getting Started
 1. Clone the Repository:
 
 bash    
-git clone https://github.com/your-username/coffee-machine-simulation.git    
+git clone https://github.com/LukeShawket/coffee-machine-simulation.git    
 cd coffee-machine-simulation    
 
 2. Run the Simulation:    
