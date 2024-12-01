@@ -1,4 +1,4 @@
-Coffee Machine Simulation    
+# Coffee Machine Simulation    
 
 A Python-based simulation of a coffee machine, capable of making various types of coffee by managing ingredients and handling monetary transactions. This project is a great example of using Python for practical simulations and interactive programs.
 
