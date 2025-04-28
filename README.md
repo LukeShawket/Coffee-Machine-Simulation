@@ -1,6 +1,6 @@
 # Coffee Machine Simulation    
 
-A Python-based simulation of a coffee machine, capable of making various types of coffee by managing ingredients and handling monetary transactions.
+A Python-based simulation of a coffee machine.
 
 Features    
 
@@ -12,11 +12,6 @@ Features
 
 • Monetary Transactions: Handles coin insertion and provides change when necessary.
 
-Components    
-
-Main Script (main.py)
-Handles the main logic for the coffee machine simulation, including user interactions, resource management, and monetary transactions.
-
 Getting Started    
 
 1. Clone the Repository:
@@ -26,7 +21,3 @@ Getting Started
 4. Turn on the machine by typing "on".
 
 5. Use commands like "menu", "resources", "fill", and "off" to interact with the machine.
-
-Contributing    
-
-Contributions are welcome! Feel free to submit issues or open pull requests with improvements or new features.
