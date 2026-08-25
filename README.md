@@ -1,6 +1,6 @@
-# Coffee Machine Simulation    
+# Have a cup of coffee 
 
-A Python-based simulation of a coffee machine.
+A simulation of a coffee machine.
 
 Features    
 
